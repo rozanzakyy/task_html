@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+    padding: 0px 16px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
